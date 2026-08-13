@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+  <title id="title">Furkan Çakmak: Graphic Design, Photography, Small Tools</title>
+  <desc id="desc">A compact light banner for Furkan Çakmak's creative work and software projects.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F2E8"/>
+      <stop offset="1" stop-color="#ECE7F7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF6B4A"/>
+      <stop offset="0.52" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#1AA6A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="240" rx="24" fill="url(#surface)"/>
+  <path d="M492 28h64a58 58 0 0 1 0 116h-64z" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <circle cx="506" cy="61" r="21" fill="#FF6B4A"/>
+  <rect x="531" y="86" width="43" height="43" rx="10" fill="#7C5CFC" transform="rotate(10 552 108)"/>
+  <path d="M585 49l34 59h-68z" fill="#1AA6A6"/>
+  <g fill="#20212A" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="36" y="104" font-size="42" font-weight="700" letter-spacing="-1">FURKAN ÇAKMAK</text>
+    <text x="38" y="146" font-size="19" font-weight="400" letter-spacing="1">DESIGN · PHOTOGRAPHY · SMALL TOOLS</text>
+  </g>
+  <path d="M38 182h416" stroke="#20212A" stroke-width="2" opacity=".22"/>
+  <circle cx="38" cy="182" r="5" fill="#FF6B4A"/>
+</svg>

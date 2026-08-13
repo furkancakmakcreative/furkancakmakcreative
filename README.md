@@ -1,4 +1,6 @@
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
   <img alt="Furkan Çakmak: graphic design, photography, and small tools" src="./assets/header-light.svg" width="100%">
@@ -17,7 +19,7 @@ This is where I put the small tools I build for my own work.
 ## Creative work
 
 - **[For Creative Works](https://www.forcreativeworks.com):** branding, graphic design, photography, and content.
-- **[Behance](https://www.behance.net/furkancakmak):** selected identity, editorial, portrait, event, and concert photography projects.
+- **[Behance](https://www.behance.net/furkancakmak):** identity and editorial design, plus portrait, event, and concert photography.
 
 ## Tools I use
 
@@ -25,6 +27,6 @@ This is where I put the small tools I build for my own work.
 
 ## Links
 
-[![Website](https://img.shields.io/badge/For_Creative_Works-171717?style=flat-square&logo=safari&logoColor=white)](https://www.forcreativeworks.com)
+[![Website](https://img.shields.io/badge/For_Creative_Works-171717?style=flat-square)](https://www.forcreativeworks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkancakmak)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/furkancakmak)
