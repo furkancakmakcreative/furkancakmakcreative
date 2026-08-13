@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Furkan Çakmak — Design, Systems, Practical AI</title>
+  <desc id="desc">A dark editorial banner with geometric forms connecting creative direction and useful technology.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#171528"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF7B5C"/>
+      <stop offset="0.52" stop-color="#9A82FF"/>
+      <stop offset="1" stop-color="#33C7C7"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#surface)"/>
+  <circle cx="1088" cy="56" r="150" fill="#FF7B5C" opacity=".16" filter="url(#soft)"/>
+  <circle cx="1160" cy="280" r="165" fill="#9A82FF" opacity=".2" filter="url(#soft)"/>
+  <path d="M882 48h222c70 0 126 56 126 126s-56 126-126 126H882z" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".9"/>
+  <circle cx="934" cy="105" r="42" fill="#FF7B5C"/>
+  <rect x="996" y="148" width="92" height="92" rx="20" fill="#9A82FF" transform="rotate(11 1042 194)"/>
+  <path d="M1130 84l70 120h-140z" fill="#33C7C7"/>
+  <path d="M935 105L1042 194 1130 124" fill="none" stroke="#F0F3F6" stroke-width="2" stroke-dasharray="7 9" opacity=".55"/>
+  <g fill="#F0F3F6" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="100" font-size="17" font-weight="600" letter-spacing="4">CREATIVE DIRECTION · OPEN SOURCE</text>
+    <text x="66" y="182" font-size="62" font-weight="750" letter-spacing="-2">FURKAN ÇAKMAK</text>
+    <text x="70" y="232" font-size="24" font-weight="450" letter-spacing="1">DESIGN × SYSTEMS × PRACTICAL AI</text>
+  </g>
+  <path d="M70 270h610" stroke="#F0F3F6" stroke-width="2" opacity=".24"/>
+  <circle cx="70" cy="270" r="5" fill="#FF7B5C"/>
+</svg>
