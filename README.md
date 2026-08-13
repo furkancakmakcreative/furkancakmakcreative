@@ -10,6 +10,8 @@ Founder & Creative Director at [For Creative Works](https://www.forcreativeworks
 
 I work across visual identity, graphic design, photography, and music—and increasingly build practical AI tools for the repetitive parts of creative work. I care about clear ideas, durable systems, and things that stay useful after the demo.
 
+Available for thoughtful creative collaborations and focused open-source projects.
+
 ## What I'm working on
 
 - **Creative direction & visual systems** — turning ideas into coherent identities, images, and communication.
