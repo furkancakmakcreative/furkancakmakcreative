@@ -1,34 +1,29 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Furkan Çakmak — design, systems, and practical AI" src="./assets/header-light.svg" width="100%">
+  <img alt="Furkan Çakmak: graphic design, photography, and small tools" src="./assets/header-light.svg" width="100%">
 </picture>
 
 # Hi, I'm Furkan Çakmak.
 
-Founder & Creative Director at [For Creative Works](https://www.forcreativeworks.com), based in İzmir, Türkiye.
+I run [For Creative Works](https://www.forcreativeworks.com) in İzmir. My background is in graphic design, photography, and Turkish folk music.
 
-I work across visual identity, graphic design, photography, and music—and increasingly build practical AI tools for the repetitive parts of creative work. I care about clear ideas, durable systems, and things that stay useful after the demo.
+This is where I put the small tools I build for my own work.
 
-Available for thoughtful creative collaborations and focused open-source projects.
+## Current project
 
-## What I'm working on
+- **[notebooklm-curator](https://github.com/furkancakmakcreative/notebooklm-curator):** an MCP server that audits NotebookLM source libraries and removes stale sources through browser automation.
 
-- **Creative direction & visual systems** — turning ideas into coherent identities, images, and communication.
-- **AI-assisted creative workflows** — exploring where automation can remove friction without flattening the creative process.
-- **Open-source tools** — small, focused utilities for knowledge and content workflows.
+## Creative work
 
-## Selected work
+- **[For Creative Works](https://www.forcreativeworks.com):** branding, graphic design, photography, and content.
+- **[Behance](https://www.behance.net/furkancakmak):** selected identity, editorial, portrait, event, and concert photography projects.
 
-- **[notebooklm-curator](https://github.com/furkancakmakcreative/notebooklm-curator)** — an MCP server for auditing NotebookLM source libraries and pruning stale sources through browser automation.
-- **[For Creative Works](https://www.forcreativeworks.com)** — creative direction, brand identity, graphic design, photography, and content work.
-- **[Selected portfolio](https://www.behance.net/furkancakmak)** — identity, editorial, social media, portrait, event, and concert photography projects.
+## Tools I use
 
-## Tools & disciplines
+`Photoshop` · `Illustrator` · `Lightroom` · `JavaScript` · `Node.js`
 
-`Creative Direction` · `Brand Identity` · `Photography` · `Photoshop` · `Illustrator` · `Lightroom` · `JavaScript` · `Node.js` · `MCP`
-
-## Elsewhere
+## Links
 
 [![Website](https://img.shields.io/badge/For_Creative_Works-171717?style=flat-square&logo=safari&logoColor=white)](https://www.forcreativeworks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkancakmak)
