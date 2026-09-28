@@ -14,20 +14,41 @@ I'm not a software developer. I design the systems, decide how they should behav
 
 ### Systems I built for my own work
 
-<table>
-  <tr>
-    <td width="30%" valign="top"><b>Kora</b><br><sub>Private</sub></td>
-    <td valign="top">Not an assistant that does things for me, but an accountability partner that keeps me doing them. It turns each day into one critical task instead of twenty, checks in morning, noon and evening, and shrinks a stuck task down to the smallest next step. Its core rule: never make things up, never sugarcoat.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>İmece</b><br><sub>Private</sub></td>
-    <td valign="top">My studio's production system, named after <i>imece</i>, the Turkish village tradition of neighbours coming together to get a job done. Eight roles take a brand from zero knowledge to a finished post: brand constitution, content plan, prompts, visuals, review. It never approves its own work. An independent reviewer checks every output, and I approve or reject at each gate. I use it on real client brands.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b><a href="https://github.com/furkancakmakcreative/notebooklm-curator">notebooklm-curator</a></b><br><sub>Open source · MCP</sub></td>
-    <td valign="top">An MCP server that audits NotebookLM source libraries by freshness and removes stale sources through browser automation.</td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/card-kora-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/card-kora-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-kora-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-kora-light.svg">
+  <img alt="Kora: scattered to-dos collapse into one orb and a single critical task comes out, followed by morning, noon and evening check-ins." src="./assets/card-kora-light.svg" width="100%">
+</picture>
+
+Not an assistant that does things for me, but an accountability partner that keeps me doing them. It turns each day into one critical task instead of twenty, checks in morning, noon and evening, and shrinks a stuck task down to the smallest next step. Its core rule: never make things up, never sugarcoat.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/card-imece-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/card-imece-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-imece-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-imece-light.svg">
+  <img alt="İmece: a brief moves through brand, plan, prompts and visuals. Review sends it back once, the second version passes, and the final approval is mine." src="./assets/card-imece-light.svg" width="100%">
+</picture>
+
+My studio's production system, named after *imece*, the Turkish village tradition of neighbours coming together to get a job done. Eight roles take a brand from zero knowledge to a finished post: brand constitution, content plan, prompts, visuals, review. It never approves its own work. An independent reviewer checks every output, and I approve or reject at each gate. I use it on real client brands.
+
+<br>
+
+<a href="https://github.com/furkancakmakcreative/notebooklm-curator">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/card-curator-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/card-curator-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-curator-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-curator-light.svg">
+  <img alt="notebooklm-curator: a scan reads each source in a NotebookLM library, marks stale ones and removes them." src="./assets/card-curator-light.svg" width="100%">
+</picture>
+</a>
+
+An MCP server that audits NotebookLM source libraries by freshness and removes stale sources through browser automation. [See the repository](https://github.com/furkancakmakcreative/notebooklm-curator).
 
 ### İzmir Claude Meetups
 
