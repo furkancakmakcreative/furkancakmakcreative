@@ -3,30 +3,52 @@
   <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Furkan Çakmak: graphic design, photography, and small tools" src="./assets/header-light.svg" width="100%">
+  <img alt="Furkan Çakmak. Designer. I build the systems my one-person studio runs on." src="./assets/header-light.svg" width="100%">
 </picture>
 
-# Hi, I'm Furkan Çakmak.
+<br>
 
-I run [For Creative Works](https://www.forcreativeworks.com) in İzmir. My background is in graphic design, photography, and Turkish folk music.
+I run [For Creative Works](https://www.forcreativeworks.com), a one-person creative studio in İzmir. The work is brand identity, websites, social content, photography and video.
 
-This is where I put the small tools I build for my own work.
+I'm not a software developer. I design the systems, decide how they should behave, and approve what they produce. Claude Code writes the code. That has turned into the production setup my studio runs on.
 
-## Current project
+### Systems I built for my own work
 
-- **[notebooklm-curator](https://github.com/furkancakmakcreative/notebooklm-curator):** an MCP server that audits NotebookLM source libraries and removes stale sources through browser automation.
+<table>
+  <tr>
+    <td width="30%" valign="top"><b>Kora</b><br><sub>Private</sub></td>
+    <td valign="top">Not an assistant that does things for me, but an accountability partner that keeps me doing them. It turns each day into one critical task instead of twenty, checks in morning, noon and evening, and shrinks a stuck task down to the smallest next step. Its core rule: never make things up, never sugarcoat.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>İmece</b><br><sub>Private</sub></td>
+    <td valign="top">My studio's production system, named after <i>imece</i>, the Turkish village tradition of neighbours coming together to get a job done. Eight roles take a brand from zero knowledge to a finished post: brand constitution, content plan, prompts, visuals, review. It never approves its own work. An independent reviewer checks every output, and I approve or reject at each gate. I use it on real client brands.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b><a href="https://github.com/furkancakmakcreative/notebooklm-curator">notebooklm-curator</a></b><br><sub>Open source · MCP</sub></td>
+    <td valign="top">An MCP server that audits NotebookLM source libraries by freshness and removes stale sources through browser automation.</td>
+  </tr>
+</table>
 
-## Creative work
+### İzmir Claude Meetups
 
-- **[For Creative Works](https://www.forcreativeworks.com):** branding, graphic design, photography, and content.
-- **[Behance](https://www.behance.net/furkancakmak):** identity and editorial design, plus portrait, event, and concert photography.
+In July 2026 I started [İzmir Claude Meetups](https://luma.com/rthfp0fd), a community where developers and non-developers learn from each other, share what works and help each other get unstuck. We meet at least every two months and keep talking in a community group between events.
 
-## Tools I use
+In September 2026 I taught a free, hands-on AI workshop for students, covered by [Cumhuriyet](https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/baskan-mutlu-genclerle-yapay-zeka-atolyesinde-bulustu-2539444) and [ANKA](https://ankahaber.net/haber/konak-belediye-baskani-mutlu-genclerle-yapay-zeka-atolyesinde-bulustu-f4c3a0c0).
 
-`Photoshop` · `Illustrator` · `Lightroom` · `JavaScript` · `Node.js`
+### How I work
 
-## Links
+- **Design first.** The tools exist to give me more time for the part that needs a designer.
+- **Nothing approves itself.** Every output gets a second review with fresh context before it ships.
+- **Real over invented.** Real photos, real numbers. If a metric wasn't measured, it doesn't go on the page.
 
-[![Website](https://img.shields.io/badge/For_Creative_Works-171717?style=flat-square)](https://www.forcreativeworks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkancakmak)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/furkancakmak)
+### Outside the studio
+
+I studied at Ege University's State Conservatory of Turkish Music and play guitar, piano and kabak kemane.
+
+### Tools
+
+Photoshop · Illustrator · Lightroom · Claude Code
+
+<br>
+
+**[forcreativeworks.com](https://www.forcreativeworks.com)** &nbsp;·&nbsp; **[Behance](https://www.behance.net/furkancakmak)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/furkancakmak)**
